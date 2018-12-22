@@ -13,6 +13,18 @@
 		3F1CD9C921CE220F004F4876 /* IOSteamdemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F1CD9C721CE220F004F4876 /* IOSteamdemo.xcdatamodeld */; };
 		3F1CD9CB21CE2211004F4876 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9CA21CE2211004F4876 /* Assets.xcassets */; };
 		3F1CD9CE21CE2211004F4876 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9CC21CE2211004F4876 /* LaunchScreen.storyboard */; };
+		3F1CD9D921CE258D004F4876 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1CD9D721CE258D004F4876 /* MainViewController.swift */; };
+		3F1CD9DA21CE258D004F4876 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9D821CE258D004F4876 /* MainViewController.xib */; };
+		3F1CD9DD21CE2670004F4876 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1CD9DB21CE2670004F4876 /* SettingViewController.swift */; };
+		3F1CD9DE21CE2670004F4876 /* SettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9DC21CE2670004F4876 /* SettingViewController.xib */; };
+		3F1CD9E821CE29E2004F4876 /* icon_menu_hp_press.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E021CE29E2004F4876 /* icon_menu_hp_press.png */; };
+		3F1CD9E921CE29E2004F4876 /* icon_menu_hp_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E121CE29E2004F4876 /* icon_menu_hp_selected.png */; };
+		3F1CD9EA21CE29E2004F4876 /* icon_menu_ihave_press.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E221CE29E2004F4876 /* icon_menu_ihave_press.png */; };
+		3F1CD9EB21CE29E2004F4876 /* icon_menu_ihave_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E321CE29E2004F4876 /* icon_menu_ihave_selected.png */; };
+		3F1CD9EC21CE29E2004F4876 /* icon_menu_profile_press.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E421CE29E2004F4876 /* icon_menu_profile_press.png */; };
+		3F1CD9ED21CE29E2004F4876 /* icon_menu_profile_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E521CE29E2004F4876 /* icon_menu_profile_selected.png */; };
+		3F1CD9EE21CE29E2004F4876 /* icon_menu_x_press.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E621CE29E2004F4876 /* icon_menu_x_press.png */; };
+		3F1CD9EF21CE29E2004F4876 /* icon_menu_x_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1CD9E721CE29E2004F4876 /* icon_menu_x_selected.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		3F1CD9CA21CE2211004F4876 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F1CD9CD21CE2211004F4876 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F1CD9CF21CE2211004F4876 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F1CD9D721CE258D004F4876 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		3F1CD9D821CE258D004F4876 /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		3F1CD9DB21CE2670004F4876 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		3F1CD9DC21CE2670004F4876 /* SettingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingViewController.xib; sourceTree = "<group>"; };
+		3F1CD9E021CE29E2004F4876 /* icon_menu_hp_press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_hp_press.png; sourceTree = "<group>"; };
+		3F1CD9E121CE29E2004F4876 /* icon_menu_hp_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_hp_selected.png; sourceTree = "<group>"; };
+		3F1CD9E221CE29E2004F4876 /* icon_menu_ihave_press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_ihave_press.png; sourceTree = "<group>"; };
+		3F1CD9E321CE29E2004F4876 /* icon_menu_ihave_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_ihave_selected.png; sourceTree = "<group>"; };
+		3F1CD9E421CE29E2004F4876 /* icon_menu_profile_press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_profile_press.png; sourceTree = "<group>"; };
+		3F1CD9E521CE29E2004F4876 /* icon_menu_profile_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_profile_selected.png; sourceTree = "<group>"; };
+		3F1CD9E621CE29E2004F4876 /* icon_menu_x_press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_x_press.png; sourceTree = "<group>"; };
+		3F1CD9E721CE29E2004F4876 /* icon_menu_x_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_menu_x_selected.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +80,7 @@
 		3F1CD9BF21CE220F004F4876 /* IOSteamdemo */ = {
 			isa = PBXGroup;
 			children = (
+				3F1CD9DF21CE29E2004F4876 /* tabBar图标 */,
 				3F1CD9C021CE220F004F4876 /* AppDelegate.swift */,
 				3F1CD9C221CE220F004F4876 /* ViewController.swift */,
 				3F1CD9C421CE220F004F4876 /* Main.storyboard */,
@@ -63,8 +88,28 @@
 				3F1CD9CC21CE2211004F4876 /* LaunchScreen.storyboard */,
 				3F1CD9CF21CE2211004F4876 /* Info.plist */,
 				3F1CD9C721CE220F004F4876 /* IOSteamdemo.xcdatamodeld */,
+				3F1CD9D721CE258D004F4876 /* MainViewController.swift */,
+				3F1CD9DB21CE2670004F4876 /* SettingViewController.swift */,
+				3F1CD9DC21CE2670004F4876 /* SettingViewController.xib */,
+				3F1CD9D821CE258D004F4876 /* MainViewController.xib */,
 			);
 			path = IOSteamdemo;
+			sourceTree = "<group>";
+		};
+		3F1CD9DF21CE29E2004F4876 /* tabBar图标 */ = {
+			isa = PBXGroup;
+			children = (
+				3F1CD9E021CE29E2004F4876 /* icon_menu_hp_press.png */,
+				3F1CD9E121CE29E2004F4876 /* icon_menu_hp_selected.png */,
+				3F1CD9E221CE29E2004F4876 /* icon_menu_ihave_press.png */,
+				3F1CD9E321CE29E2004F4876 /* icon_menu_ihave_selected.png */,
+				3F1CD9E421CE29E2004F4876 /* icon_menu_profile_press.png */,
+				3F1CD9E521CE29E2004F4876 /* icon_menu_profile_selected.png */,
+				3F1CD9E621CE29E2004F4876 /* icon_menu_x_press.png */,
+				3F1CD9E721CE29E2004F4876 /* icon_menu_x_selected.png */,
+			);
+			name = "tabBar图标";
+			path = "../../../成都生活展示（素材）/tabBar图标";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +170,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F1CD9EE21CE29E2004F4876 /* icon_menu_x_press.png in Resources */,
+				3F1CD9EF21CE29E2004F4876 /* icon_menu_x_selected.png in Resources */,
+				3F1CD9ED21CE29E2004F4876 /* icon_menu_profile_selected.png in Resources */,
+				3F1CD9E921CE29E2004F4876 /* icon_menu_hp_selected.png in Resources */,
+				3F1CD9EA21CE29E2004F4876 /* icon_menu_ihave_press.png in Resources */,
 				3F1CD9CE21CE2211004F4876 /* LaunchScreen.storyboard in Resources */,
+				3F1CD9EC21CE29E2004F4876 /* icon_menu_profile_press.png in Resources */,
+				3F1CD9DE21CE2670004F4876 /* SettingViewController.xib in Resources */,
+				3F1CD9DA21CE258D004F4876 /* MainViewController.xib in Resources */,
 				3F1CD9CB21CE2211004F4876 /* Assets.xcassets in Resources */,
+				3F1CD9EB21CE29E2004F4876 /* icon_menu_ihave_selected.png in Resources */,
 				3F1CD9C621CE220F004F4876 /* Main.storyboard in Resources */,
+				3F1CD9E821CE29E2004F4876 /* icon_menu_hp_press.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +193,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F1CD9DD21CE2670004F4876 /* SettingViewController.swift in Sources */,
 				3F1CD9C921CE220F004F4876 /* IOSteamdemo.xcdatamodeld in Sources */,
 				3F1CD9C321CE220F004F4876 /* ViewController.swift in Sources */,
 				3F1CD9C121CE220F004F4876 /* AppDelegate.swift in Sources */,
+				3F1CD9D921CE258D004F4876 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
